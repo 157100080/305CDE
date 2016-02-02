@@ -1,2 +1,2 @@
 # 305CDE
-*/Read Me La!/*
+# Read Me La!
